@@ -1,0 +1,8 @@
+threshold_m,endpoint_clusters,singleton_clusters,link_components,largest_link_component,components_single_link,max_endpoint_cluster_size
+0.25,250,65,1,317,0,6
+0.5,250,65,1,317,0,6
+1,249,63,1,317,0,6
+2,241,63,1,317,0,6
+3,237,61,1,317,0,6
+5,197,32,1,317,0,9
+10,142,15,1,317,0,47
